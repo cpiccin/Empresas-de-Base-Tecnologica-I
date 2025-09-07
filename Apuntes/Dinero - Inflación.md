@@ -1,8 +1,6 @@
-# Empresas de Base Tecnológica I
 
----
 
-## Dinero - Inflación
+# Dinero - Inflación
 
 * Definición de Dinero
 * Funciones del Dinero
@@ -18,13 +16,13 @@
 
 ---
 
-### Meta de inflación 2018
+## Meta de inflación 2018
 
 10% (+-2)
 
 ---
 
-## Definición de Dinero
+# Definición de Dinero
 
 Es todo activo o bien generalmente aceptado como medio de pago por los agentes económicos para sus intercambios. Es un activo financiero neutro o plenamente líquido, que sirve de plataforma intermedia para optimizar el intercambio de bienes y servicios, evitando las inexactitudes propias del trueque.
 
@@ -114,13 +112,13 @@ La tasa de interés representa el costo del dinero en un período de tiempo dete
 
 ---
 
-## Inflación
+# Inflación
 
-### Definición
+## Definición
 
 Se define a la inflación como el aumento sostenido del nivel general de precios en la economía durante un determinado período de tiempo. Este proceso disminuye el poder adquisitivo. Cuando la inflación es baja, es fácil de solucionar, pero si es alta y/o crónica, solucionarla es difícil y lleva tiempo.
 
-### Clasificación
+## Clasificación
 
 * **Baja:** Menor al 10% anual.
 * **Media:** Del 10% al 20% anual.
@@ -129,13 +127,32 @@ Se define a la inflación como el aumento sostenido del nivel general de precios
 
 A mayor inflación, más rápido pierde el dinero sus funciones.
 
-### Tipos de Inflación
+## Tipos de Inflación
 
 * Inflación de Demanda
 * Inflación de Costos
 * Inflación Inercial o por Expectativas
 * Inflación Estructural
 * Inflación por Política Monetaria
+
+### Inflación de Demanda
+La inflación de demanda se origina por un aumento en la demanda agregada por encima de la oferta agregada. Puede ser por un aumento en el consumo, la inversión, el gasto de gobierno, el salario real, la oferta monetaria o una disminución de los  impuestos.
+
+### Inflación de Costos
+La inflación de costos se origina por un aumento en los precios. Puede ser por un aumento del salario nominal (cuando no viene acompañado de otra medida), un aumento del Mark Up o una disminución de la productividad.
+
+### Inflación Inercial o por Expectativas
+La inflación inercial se origina por las expectativas que tienen los agentes económicos de que se repita la inflación de los períodos anteriores. Esas expectativas terminan generando una “profecía autocumplida” generando lo que se conoce como Espiral Inflacionaria.
+
+### Inflación Estructural
+La inflación Estructural no se debe a un desequilibrio de la demanda agregada o de la oferta agregada sino a un aumento de precios producto del atraso de la estructura productiva.
+
+Una estructura productiva atrasada se reconoce por poseer cuellos de botella en determinados sectores. Este problema productivo se traslada al resto de la economía en forma de aumentos de precios.
+
+### Inflación por Política Monetaria
+La inflación por Política Monetaria se origina cuando la oferta de dinero crece a una tasa superior a la demanda de dinero. El principal fundamento teórico de quienes aplican esta teoría es la teoría cuantitativa del dinero.
+
+Los orígenes del exceso de oferta de dinero pueden deberse a una financiación del déficit del Gobierno o debido a una situación extraordinaria (Pandemia COVID-19).
 
 ---
 
