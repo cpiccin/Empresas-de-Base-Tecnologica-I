@@ -13,14 +13,7 @@
 * Clasificación de Inflación
 * Tipos de Inflación
 * Soluciones para bajar la Inflación
-
----
-
-## Meta de inflación 2018
-
-10% (+-2)
-
----
+ 
 
 # Definición de Dinero
 
@@ -32,67 +25,32 @@ Es todo activo o bien generalmente aceptado como medio de pago por los agentes e
 * Dinero electrónico
 * Dinero signo
 
----
-
+ 
 ## Funciones del Dinero
 
-1.  **Medio de pago:** Cuándo un bien o servicio es requerido con el solo propósito de usarlo para ser intercambiado por otras cosas. Además, debe ser un bien ligero y fácil de almacenar y de transportar.
+1.  **Medio de pago:** Cuándo un bien o servicio es requerido con el solo propósito de usarlo para ser intercambiado por otras cosas. Además, el dinero debe ser un bien ligero y fácil de almacenar y de transportar.
 2.  **Unidad de cuenta:** Permite valorizar todos los bienes y servicios en una escala común. Es una función muy útil para la contabilidad.
 3.  **Depósito de valor:** Morada temporaria del poder de compra.
 
----
-
+ 
 ## Características del Dinero
 
 1.  **Liquidez:** Capacidad de un activo de convertirse en dinero sin perder su valor. Existen diferentes grados de liquidez.
 2.  **Rendimiento:** Remuneración debida a su posesión durante un determinado período de tiempo.
 3.  **Riesgo:** Evalúa la posibilidad de afectar su calidad como reserva de valor.
 
----
 
 ## Agregados Monetarios
 
-* **CASH (C):** Es el valor de los billetes y las monedas en manos de los hogares y de las empresas no financieras de una economía.
-* **RESERVAS (R):** Son el valor de los billetes y las monedas que los bancos y las cajas de ahorro de una economía tienen en depósito.
-* **DEPOSITOS (D):** Es el dinero del público depositado en el sistema financiero para su custodia o en busca de un interés.
-    * **CUENTAS CORRIENTES (CC):** Depósito que permite ingresar dinero en el banco con la obligación de este a devolverlo inmediatamente cuando el cliente lo requiera.
-    * **CAJAS DE AHORRO (CA):** Cuenta que ofrece al cliente menos facilidades para realizar ingresos y pagos pero que presenta un tipo de interés.
-    * **PLAZO FIJO (PF):** Alternativa de inversión que permite obtener un rendimiento conocido y fijo a cambio de inmovilizar el dinero por un plazo previamente pautado.
+<img width="648" height="268" alt="image" src="https://github.com/user-attachments/assets/3b7c4ac7-909d-43e1-856f-a6c0cdbdc65c" />
 
-* **BASE MONETARIA (BM) = C + R:** Es el valor de todos los billetes y de todas las monedas que hay en una economía.
-* **OFERTA MONETARIA (M) = C + D:** Es la suma del efectivo en manos del público y los saldos de los depósitos a la vista de los hogares y de las empresas no financieras.
-* **M1 = (C + CC):** Agregado que resulta al sumar a la oferta monetaria los saldos de los depósitos de ahorro.
-* **M2 = (M1 + CA + PF < 1Y):** Agregado que resulta al sumar a M1 los saldos de los depósitos a plazo.
-* **M3 = (M2 + PF > 1Y):** Engloba el M2 y las cesiones temporales de dinero, las participaciones en fondos del mercado monetario y los valores que no sean acciones con una vida no superior a 1 año.
+<img width="590" height="274" alt="image" src="https://github.com/user-attachments/assets/314d7d4c-8630-432f-af9e-3eb63aba07aa" />
 
----
 
 ## Agentes Económicos
 
-**BANCO CENTRAL**
-| ACTIVOS | PASIVOS |
-| :--- | :--- |
-| Oro y Divisas | Circulante (C) |
-| Otros Activos | Reservas (R) |
-| Prest. al Gob. | Bonos BCRA |
+<img width="843" height="376" alt="image" src="https://github.com/user-attachments/assets/5597a4f5-c818-42fc-862c-b37f32184c6b" />
 
-**BANCOS COMERCIALES**
-| ACTIVOS | PASIVOS |
-| :--- | :--- |
-| Préstamos (P) | Depósitos (D) |
-| Reservas (R) | |
-
-*D = P + R*
-
-**PERSONAS**
-| ACTIVOS | PASIVOS |
-| :--- | :--- |
-| Circulante (C) | Riqueza (W) |
-| Depósitos (D) | |
-
-*BM = C + R*
-
----
 
 ## Motivos de la Demanda de Dinero
 
@@ -102,7 +60,6 @@ Es todo activo o bien generalmente aceptado como medio de pago por los agentes e
 
 Los motivos de transacciones y precaución están relacionados con el ingreso de dinero, mientras que la especulación se relaciona con la tasa de interés.
 
----
 
 ## Tasa de Interés
 
@@ -110,13 +67,14 @@ La tasa de interés representa el costo del dinero en un período de tiempo dete
 * A mayor riesgo, mayor tasa de interés.
 * A menor riesgo, menor tasa de interés.
 
----
-
+ 
 # Inflación
 
 ## Definición
 
-Se define a la inflación como el aumento sostenido del nivel general de precios en la economía durante un determinado período de tiempo. Este proceso disminuye el poder adquisitivo. Cuando la inflación es baja, es fácil de solucionar, pero si es alta y/o crónica, solucionarla es difícil y lleva tiempo.
+Se define a la inflación como el aumento sostenido del nivel general de precios en la economía durante un determinado período de tiempo. Este proceso disminuye el poder adquisitivo. 
+
+Cuando la inflación es baja, es fácil de solucionar, pero si es alta y/o crónica, solucionarla es difícil y lleva tiempo.
 
 ## Clasificación
 
@@ -136,7 +94,7 @@ A mayor inflación, más rápido pierde el dinero sus funciones.
 * Inflación por Política Monetaria
 
 ### Inflación de Demanda
-La inflación de demanda se origina por un aumento en la demanda agregada por encima de la oferta agregada. Puede ser por un aumento en el consumo, la inversión, el gasto de gobierno, el salario real, la oferta monetaria o una disminución de los  impuestos.
+La inflación de demanda se origina por un aumento en la demanda agregada por encima de la oferta agregada. Puede ser por un aumento en el consumo, la inversión, el gasto de gobierno, el salario real, la oferta monetaria o una disminución de los impuestos.
 
 ### Inflación de Costos
 La inflación de costos se origina por un aumento en los precios. Puede ser por un aumento del salario nominal (cuando no viene acompañado de otra medida), un aumento del Mark Up o una disminución de la productividad.
@@ -154,8 +112,7 @@ La inflación por Política Monetaria se origina cuando la oferta de dinero crec
 
 Los orígenes del exceso de oferta de dinero pueden deberse a una financiación del déficit del Gobierno o debido a una situación extraordinaria (Pandemia COVID-19).
 
----
-
+ 
 ## Soluciones para bajar la Inflación
 
 * Pacto Social entre los agentes económicos para acordar precios y salarios.
