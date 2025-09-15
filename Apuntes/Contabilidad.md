@@ -88,3 +88,54 @@ Recordemos que **la liquidez es la facilidad que tiene un activo para convertirs
     - Ingresos.
     - Egresos.
     - Producción.
+
+
+## Partida Doble
+La Partida Doble establece que todo hecho económico tiene su origen en otro hecho económico, de igual valor, pero de naturaleza contraria.
+
+Esto implica que, en cada movimiento contable, intervienen al menos dos cuentas: una de **inversión** y otra de **financiamiento**.
+
+### Principios Fundamentales de la Partida Doble
+
+- El ente que recibe se denomina deudor y el ente que entrega se denomina acreedor.
+- No hay deudor sin acreedor y no hay acreedor sin deudor.
+- Todo valor que entra debe ser igual al valor que sale.
+- El deudor existe porque hay un acreedor y viceversa.
+- Las pérdidas se debitan y las ganancias se acreditan.
+
+## Diferencia entre Devengamiento y Cobro / Pago
+
+Se denomina **devengamiento** al momento en el que se realiza una transacción económica, por ejemplo la venta de un servicio, a pesar de que el cobro proveniente de esa venta sea en el futuro.
+
+Se denomina **cobro** (o pago) al momento en el que ingresa (o egresa) el dinero proveniente de la transacción económica que lo originó.
+
+
+## Plan de Cuentas y Manual de Cuentas
+
+El **Plan de Cuentas** es el ordenamiento y enumeración sistemática de todas las cuentas que se utilizan en la contabilidad de la organización.
+
+El **Manual de Cuentas** consiste en la estructura del Plan de Cuentas incluyendo el análisis detallado de cada cuenta en particular, con todas sus variantes.
+
+
+## Estados Contables
+
+### Libro Diario
+
+El Libro Diario es el Estado Contable donde se registran los hechos económicos del día a día de un ente. Nos sirve para:
+- Llevar un orden cronológico de todas las operaciones contables.
+- Ordenar los asientos contables según su tipo de cuenta.
+- Conocer la situación económica y financiera del ente.
+- Saber la rentabilidad que estamos teniendo.
+- Nos permite elaborar otros Estados Contables como el Libro Mayor, Balance, Cuadro de Resultados, etc.
+
+
+### Libro Mayor
+
+El Libro Mayor es el Estado Contable donde se registran los movimientos de cada una de las cuentas de una organización por separado.
+
+La finalidad del Libro Mayor es conocer el saldo que va quedando en cada cuenta contable debido a las operaciones contables del ente. Además, nos ayuda a identificar posibles errores.
+
+### Diferencias entre el Libro Diario y el Libro Mayor
+
+[imagen página 15]
+
